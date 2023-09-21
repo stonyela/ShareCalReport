@@ -1,0 +1,15 @@
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/bin/Debug/net7.0/ShareCalReport
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/bin/Debug/net7.0/ShareCalReport.deps.json
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/bin/Debug/net7.0/ShareCalReport.runtimeconfig.json
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/bin/Debug/net7.0/ShareCalReport.dll
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/bin/Debug/net7.0/ShareCalReport.pdb
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.csproj.AssemblyReference.cache
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.AssemblyInfoInputs.cache
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.AssemblyInfo.cs
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.csproj.CoreCompileInputs.cache
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.dll
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/refint/ShareCalReport.dll
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.pdb
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ShareCalReport.genruntimeconfig.cache
+/Users/sinovuyotonyela/Projects/ShareCalReport/ShareCalReport/obj/Debug/net7.0/ref/ShareCalReport.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9072CAB5-1CEB-4F0E-AA89-17196F9EEF40}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ShareCalReport PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShareCalReport/Program.cs">
+    <Files>
+      <File FileName="ShareCalReport/Program.cs" Line="18" Column="1" />
+      <File FileName="ShareCalReport/Report.cs" Line="12" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShareCalReport" expanded="True">
+            <Node name="ShareCalReport" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
